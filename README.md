@@ -1,2 +1,2 @@
-# ohslikeiq.github.io
-Check out my webpage [Here](https://0hslikeiq.github.io/sniqr/)
+# Hey There!
+Check out my webpage [Here!](https://sniqr.github.io/Dev-Page/)
